@@ -1,1 +1,1 @@
-# CSE423-Project
+# Designed and developed a 1v1 Space Shooter game using Python, OpenGL, and Pygame, featuring real-time multiplayer interaction, custom graphics rendering, and smooth gameplay mechanics. Published and documented the project on GitHub for accessibility and future enhancements.
